@@ -9,7 +9,7 @@ import org.bson.conversions.Bson;
 import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoDatabase;
 
-import static com.mongodb.client.model.Projections.public class FindWithSortSkipLimitTest {
+public class FindWithSortSkipLimitTest {
 
 	public static void main(String[] args) {
 
